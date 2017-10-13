@@ -1,0 +1,7 @@
+<suite name="Test Suite">
+    <test name="Test">
+        <classes>
+          <class name="com.epam.lab.marketplacetest.MarketPlaceTest"/>
+        </classes>
+    </test>
+</suite>
